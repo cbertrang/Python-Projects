@@ -1,0 +1,9 @@
+{"Customers":[
+    {"ID":"0", "name":"Bill", "street address":"5609 James ST.", "city":"Duluth", "age":"57"},
+    {"ID":"1", "name":"Sarah", "street address":"632 Rutherford Ave", "city":"Cloquet", "age":"48"},
+    {"ID":"2", "name":"Craig", "street address":"45221 Lake DR.", "city":"Blaine", "age":"34"},
+    {"ID":"3", "name":"Jessica", "street address":"3805 Superior Road", "city":"Superior", "age":"63"},
+    {"ID":"4", "name":"Randy", "street address":"8493 Privy ST.", "city":"Brooklyn Park", "age":"29"},
+    {"ID":"5", "name":"Julie", "street address":"395 N 4th St.", "city":"Annandale", "age":"42"}
+]}
+
